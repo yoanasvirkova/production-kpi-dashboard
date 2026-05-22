@@ -1,0 +1,45 @@
+date,shift,machine,units_produced,defective_units,downtime_minutes,target_units
+2026-01-01,Morning,Machine A,950,25,30,1000
+2026-01-01,Evening,Machine B,870,40,55,1000
+2026-01-02,Morning,Machine A,1020,18,20,1000
+2026-01-02,Evening,Machine B,910,35,45,1000
+2026-01-03,Morning,Machine A,980,20,25,1000
+2026-01-03,Evening,Machine B,860,50,70,1000
+2026-01-04,Morning,Machine A,1050,15,15,1000
+2026-01-04,Evening,Machine B,930,30,40,1000
+2026-01-05,Morning,Machine A,990,22,35,1000
+2026-01-05,Evening,Machine B,890,42,60,1000
+2026-01-06,Morning,Machine A,1010,19,20,1000
+2026-01-06,Evening,Machine B,920,31,45,1000
+2026-01-07,Morning,Machine A,970,27,30,1000
+2026-01-07,Evening,Machine B,850,55,80,1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
